@@ -17,3 +17,4 @@
 | 故障排除 | Z轴异常、USB读取、LCD屏幕异常 |
 | 前端代码 | Wiki.js代码、产品卡片、按钮样式 |
 | 工作文档 | FAQ模板、更换教程模板 |
+![Cat](/assers/images/IMG_7312.JPEG)
